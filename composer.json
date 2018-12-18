@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "~2018.11.0",
+    "spryker-feature/spryker-core": "~2018.12.0",
     "spryker/customer-access": "^1.0.0",
     "spryker/customer-access-gui": "^1.0.0",
     "spryker/customer-access-permission": "^1.1.0",
