@@ -11,5 +11,10 @@
     "spryker/customer-access-gui": "^1.0.1",
     "spryker/customer-access-permission": "^1.1.0",
     "spryker/customer-access-storage": "^1.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
