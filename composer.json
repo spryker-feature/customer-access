@@ -10,7 +10,7 @@
     "spryker-feature/spryker-core": "^201902.0",
     "spryker/customer-access": "^1.1.0",
     "spryker/customer-access-gui": "^1.0.1",
-    "spryker/customer-access-permission": "^1.1.0",
+    "spryker/customer-access-permission": "^1.2.0",
     "spryker/customer-access-storage": "^1.1.0"
   },
   "extra": {
