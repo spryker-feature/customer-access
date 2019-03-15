@@ -1,6 +1,6 @@
 # Spryker Feature: Customer Access
 
-A shop owner can limitwhat information is shown to to guest customers. For example, hide prices
+A shop owner can limit what information is shown to to guest customers. For example, hide prices.
 
 ## Installation
 
