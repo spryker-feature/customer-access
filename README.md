@@ -2,6 +2,8 @@
 
 A shop owner can limit what information is shown to to guest customers. For example, hide prices.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/customer-relationship-management/202307.0/customer-access-feature-overview.html)
+
 ## Installation
 
 ```
