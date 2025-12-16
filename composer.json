@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/customer-access": "^1.4.0",
+        "spryker/customer-access": "^1.5.0",
         "spryker/customer-access-gui": "^1.1.0",
         "spryker/customer-access-permission": "^1.2.0",
-        "spryker/customer-access-storage": "^1.10.0"
+        "spryker/customer-access-storage": "^1.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
